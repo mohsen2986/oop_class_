@@ -10,7 +10,6 @@ class Test{
     }
     Test(int a , int b){
         this->a = a;
-        this->b = b;
     }
     void print(){
         cout<<this->a<<endl;
